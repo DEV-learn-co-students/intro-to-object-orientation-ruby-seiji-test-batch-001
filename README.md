@@ -1,0 +1,1 @@
+# intro-to-object-orientation-ruby-seiji-test-batch-001
